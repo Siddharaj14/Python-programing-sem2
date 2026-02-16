@@ -13,3 +13,4 @@ def smallest() :
         print("all are equal")
 
 smallest()
+
